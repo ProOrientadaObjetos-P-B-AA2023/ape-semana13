@@ -1,6 +1,6 @@
 # Taller Repaso Semana13
 
-## Problemática
+## Problemática 1
 
 * Se debe realizar un análisis del proyecto denominado **EjercicioRepaso**
 
@@ -24,3 +24,15 @@
     PagoTelefonoConvencional telefonoFinca;
 ```
 * Cuando se ejecute la clase Principal del **paquete006**, debe presentar un reporte general de la Billetera de Pagos. Considerar que los objetos para usar en la billetera, se debe generar en función de las información de las clases **DatosAgua, DatosLuz, DatosPropiedades, DatosTelefono**
+
+## Problemática 2
+
+* Analice cada una de las clases/paquetes localizadas en el proyecto Problema02, el cual se refiere a la gestión de ventas de productos TV. Para el análisis, diseño y desarrollo del mismo no se considero el principio SOLID: SRP. 
+
+* El objetivo de este item es regenerar una solución aplicando de forma correcta y oportuna el SOLID: **Single responsibility principle**
+
+## Problemática 3
+
+* Analice cada una de las clases/paquetes localizadas en el proyecto Problema03, el cual se refiere a la gestión de matriculas ha Campamentos, Colegios, Escuelas, etc. Para el análisis, diseño y desarrollo del mismo no se considero el principio SOLID: OCP. 
+
+* El objetivo de este item es regenerar una solución aplicando de forma correcta y oportuna el SOLID: **Open/closed principle** 
